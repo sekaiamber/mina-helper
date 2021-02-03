@@ -2,6 +2,13 @@
 
 ## 安装依赖
 
+下载本项目
+
+```shell
+$ cd 你的目录
+$ git clone https://github.com/sekaiamber/mina-helper.git
+```
+
 依赖nodejs
 
 ```shell
