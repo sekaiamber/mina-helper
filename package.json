@@ -1,0 +1,22 @@
+{
+  "name": "mina-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ./generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekaiamber/mina-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sekaiamber/mina-helper/issues"
+  },
+  "homepage": "https://github.com/sekaiamber/mina-helper#readme",
+  "dependencies": {
+    "@o1labs/client-sdk": "^0.2.3"
+  }
+}
